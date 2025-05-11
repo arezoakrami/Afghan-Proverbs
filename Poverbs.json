@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "textDari": "کار از کار می‌خیزد",
+    "textPashto": "کار د کار نه پیدا کېږي",
+    "translationEn": "Work comes from work",
+    "meaning": "Hard work leads to results.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "آزموده را آزمودن خطاست",
+    "textPashto": "ډبره وړیا، مرغه وړیا",
+    "translationEn": "Free stone, free sparrow",
+    "meaning": "If it costs nothing, there's no loss in trying.",
+    "category": "humor"
+  },
+ {
+  "id": 3,
+  "textDari": "آب که از سر گذشت، چه یک نی چه صد نی",
+  "textPashto": "اوبه چې له سره واوښتې، بیا اندازه نه لري",
+  "translationEn": "Once the water is over your head, the depth doesn't matter.",
+  "meaning": "When you're already in trouble, more trouble makes little difference.",
+  "category": "wisdom"
+},
+{
+  "id": 4,
+  "textDari": "هر که طاووس خواهد، جور هندوستان کشد",
+  "textPashto": "که طاوس غواړې، د هند تکلیف به ګالې",
+  "translationEn": "He who wants a peacock must endure the journey to India.",
+  "meaning": "Achieving beauty or greatness comes with hardship.",
+  "category": "life"
+},
+{
+  "id": 5,
+  "textDari": "از ماست که بر ماست",
+  "textPashto": "خپله ژبه، خپله جزا",
+  "translationEn": "It's from us that it befalls us.",
+  "meaning": "We are often the cause of our own problems.",
+  "category": "wisdom"
+}
+]
